@@ -1,0 +1,16 @@
+idade_texto = input('Qual é a sua idade? ')
+
+
+idade = int(idade_texto)
+
+if idade >= 18:
+    print('Você é maior de idade!')
+
+
+else:
+    print('Você é menor de idade!')
+
+
+
+
+

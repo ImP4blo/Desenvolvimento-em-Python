@@ -1,0 +1,10 @@
+# Ambientes virtuais (cada máquina recria o seu)
+venv/
+.venv/
+
+# Arquivos gerados automaticamente pelo Python
+__pycache__/
+*.pyc
+
+# Configurações pessoais do editor
+.vscode/
