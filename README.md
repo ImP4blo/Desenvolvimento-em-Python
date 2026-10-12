@@ -4,11 +4,12 @@ Meus estudos de Python, parte da minha transição de carreira de Business Analy
 
 ## Estrutura
 
-- `aulaN.py`: exercícios do curso de Python, em ordem de aula
+- `python-intensivo/`: curso Python Intensivo, separado por módulo
+  - `01-basico/`: aulas do módulo básico (em andamento)
 - `python-para-qas/`: exercícios e miniprojetos do curso Python para QAs
 
 ## Como rodar
 
 ```bash
-python aula1.py
+python python-intensivo/01-basico/aula1.py
 ```
