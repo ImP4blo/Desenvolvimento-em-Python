@@ -1,3 +1,4 @@
+# Aula 20: Comparando valores digitados
 primeiro_valor = input('Digite um valor: ')
 segundo_valor = input('Digite outro valor: ')
 
