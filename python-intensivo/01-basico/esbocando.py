@@ -1,3 +1,4 @@
+# Rascunho: Radar de velocidade
 vel_car = 81
 local_car = 41
 
