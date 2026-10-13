@@ -1,3 +1,4 @@
+# Aula 24: Operadores in e not in
 # Operadores in e not in
 # strings ao iteráveis - Iteraveis é um negocio que vc pode navegar iten por iten - Exemplo: strings, listas, tuplas, dicionários, sets
 # 0 1 3 3 4 5
