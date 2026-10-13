@@ -29,7 +29,7 @@ Meus estudos de Python, parte da minha transição de carreira de Business Analy
 | [15](python-intensivo/01-basico/aula15.py) | input e conversão para int |
 | [16](python-intensivo/01-basico/aula16.py) | if, elif e else |
 | [17](python-intensivo/01-basico/aula17.py) | Várias condições com elif |
-| [18](python-intensivo/01-basico/aula18.py) | Várias condições com elif (cópia da aula 17, revisar) |
+| [18](python-intensivo/01-basico/aula18.py) | Várias condições com elif (continuação da aula 17) |
 | [19](python-intensivo/01-basico/aula19.py) | Operadores de comparação |
 | [20](python-intensivo/01-basico/aula20.py) | Comparando valores digitados |
 | [21](python-intensivo/01-basico/aula21.py) | Operadores lógicos and e or |
