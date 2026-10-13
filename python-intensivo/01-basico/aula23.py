@@ -1,3 +1,4 @@
+# Aula 23: Operador lógico not
 # Opeador Lógico 'not' - Inverte o valor de uma expressão booleana
 # not true = False
 # not False = True
