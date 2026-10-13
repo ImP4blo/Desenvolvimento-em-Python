@@ -1,3 +1,4 @@
+# Aula 29: Introdução ao try/except
 """
 Introdução ao try/except
 try -> Tenta executar um bloco de código e, caso ocorra algum erro, o programa não é interrompido, e sim tratado pelo except.
