@@ -1,3 +1,4 @@
+# Aula 27: Fatiamento de strings e len()
 """
 Fatiamento de strings
 012345678
