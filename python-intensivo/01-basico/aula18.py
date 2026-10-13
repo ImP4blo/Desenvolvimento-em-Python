@@ -1,3 +1,4 @@
+# Aula 18: Várias condições com elif (cópia da aula 17, revisar)
 # if / elif       / else
 # se / se nao se  / se nao
 
