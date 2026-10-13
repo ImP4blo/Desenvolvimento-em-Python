@@ -1,3 +1,4 @@
+# Aula 12: Cálculo de IMC com variáveis
 nome = 'Pablo Mateus'
 altura = 1.77
 peso = 117
