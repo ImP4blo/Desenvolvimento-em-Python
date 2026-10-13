@@ -1,3 +1,4 @@
+# Aula 38: while aninhado (linhas e colunas)
 """
 Repetioções
 While (enquanto)
