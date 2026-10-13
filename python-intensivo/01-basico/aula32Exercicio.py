@@ -1,3 +1,4 @@
+# Aula 32 (exercícios): Par ou ímpar, saudação por horário e tamanho do nome
 """
 Faça um programa que pergunte ao usuário para digitar um número inteiro,
 informe se ese número é par ou impar. Caso o usuário nao digite um nuumero inteiro, informe
