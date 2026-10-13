@@ -1,3 +1,4 @@
+# Aula 7: Variáveis e boas práticas da PEP8
 # Variaveis são usadas para salvar valores na memória do computador, para que possam ser usados posteriormente no programa.
 # PEP8: inicie variáveis com letras minúsculas, use underline para separar palavras, evite usar palavras reservadas do Python como nomes de variáveis.
 # numeros e nderline _.
