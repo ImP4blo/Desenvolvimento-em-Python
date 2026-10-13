@@ -1,3 +1,4 @@
+# Aula 6: Conversão de tipos (typecasting)
 # Conversao de tipo, coerção
 # Type convertion, typecasting, coercion
 # é o ato de converter um tipo de dado em outro tipo de dado.
