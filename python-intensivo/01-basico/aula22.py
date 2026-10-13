@@ -1,3 +1,4 @@
+# Aula 22: Avaliação de curto-circuito com or
 # Operadores Lógicos
 # and (e) or (ou) not (não)
 # And - Todas as condições precisam ser verdadeiras para que o resultado seja verdadeiro.
