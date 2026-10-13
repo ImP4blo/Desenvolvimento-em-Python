@@ -1,3 +1,4 @@
+# Aula 19: Operadores de comparação
 """
 Operadores de comparação (relacionais)
 OP     Significado           Exemplo(True)
