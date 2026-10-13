@@ -1,3 +1,4 @@
+# Aula 30: Constantes e condições compostas (radar)
 """
 CONSTANTE = "Variaveis" que não vão mudar durante a execução do programa. Por convenção, são escritas em letras maiúsculas.
 Muitas condições no mesmo if (ruim)
