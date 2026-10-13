@@ -1,3 +1,4 @@
+# Aula 21: Operadores lógicos and e or
 # Operadores Lógicos
 # and (e) or (ou) not (não)
 # And - Todas as condições precisam ser verdadeiras para que o resultado seja verdadeiro.
