@@ -1,3 +1,4 @@
+# Aula 9: Operadores aritméticos
 adicao = 10 + 10.4
 print("Adição:", adicao)
 
