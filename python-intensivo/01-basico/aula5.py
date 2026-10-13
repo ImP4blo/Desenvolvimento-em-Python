@@ -1,3 +1,4 @@
+# Aula 5: Tipo bool e o operador ==
 # Tipo de dado bool (booleano) - True ou False
 # Ao questionar algo em um programa,
 # só existem duas respostas possíveis:
