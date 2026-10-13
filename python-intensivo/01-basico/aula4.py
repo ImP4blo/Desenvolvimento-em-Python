@@ -1,3 +1,4 @@
+# Aula 4: Tipos int e float e a função type()
 # Tipos int e float
 # int -> Numero interio
 # O tipo int representa qualquer numero
