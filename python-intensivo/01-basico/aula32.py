@@ -1,3 +1,4 @@
+# Aula 32: Flags, None e o operador is
 """
 Flag (Bandeira) - Marcar um local
 None = Não valor
