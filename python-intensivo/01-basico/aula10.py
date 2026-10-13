@@ -1,3 +1,4 @@
+# Aula 10: Concatenação e repetição de strings
 concatenacao = 'A' + 'B' + 'C'
 print(concatenacao)
 
