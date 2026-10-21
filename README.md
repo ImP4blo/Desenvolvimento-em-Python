@@ -52,6 +52,10 @@ Meus estudos de Python, parte da minha transição de carreira de Business Analy
 | [37](python-intensivo/01-basico/aula37.py) | while com continue e break |
 | [38](python-intensivo/01-basico/aula38.py) | while aninhado (linhas e colunas) |
 | [39](python-intensivo/01-basico/aula39.py) | Exercício sobre while (iterando strings) |
+| [40](python-intensivo/01-basico/aula40.py) | Calculadora com while |
+| [41](python-intensivo/01-basico/aula41.py) | while/else |
+| [42](python-intensivo/01-basico/aula42.py) | Praticando mais com while |
+| [43](python-intensivo/01-basico/aula43.py) | Aprendendo FOR |
 | [Rascunho](python-intensivo/01-basico/esbocando.py) | Radar de velocidade |
 
 ## Como rodar
